@@ -1,0 +1,5 @@
+{
+  "name": "Debt Collection Call Summarizer",
+  "description": "AI-powered tool to summarize debt collection and loan servicing calls into structured internal case notes.",
+  "requestFramePermissions": []
+}
